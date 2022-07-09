@@ -1,6 +1,6 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://damuse-avf.github.io"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Damuse Blog"
 theme = "blist"
 
 DefaultContentLanguage = "en"
