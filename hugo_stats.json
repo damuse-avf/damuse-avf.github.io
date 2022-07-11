@@ -134,7 +134,6 @@
       "lg:prose-lg",
       "max-w-3xl",
       "max-w-4xl",
-      "max-w-5xl",
       "max-w-full",
       "max-w-screen-lg",
       "mb-2",
@@ -229,6 +228,7 @@
       "blockquote-with-attribution",
       "blockquote-without-attribution",
       "blockquotes",
+      "calles-con-mayor-inclinación-en-el-mundo",
       "code-block-indented-with-four-spaces",
       "code-block-with-backticks",
       "code-block-with-hugos-internal-highlight-shortcode",
@@ -251,10 +251,12 @@
       "ordered-list",
       "other-elements--abbr-sub-sup-kbd-mark",
       "paragraph",
+      "recomendaciones",
       "tables",
       "twitter-simple-shortcode",
       "unordered-list",
       "vagus-elidunt",
+      "vapor-en-las-calles",
       "vimeo-simple-shortcode",
       "youtube-privacy-enhanced-shortcode"
     ]

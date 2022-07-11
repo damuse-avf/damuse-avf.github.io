@@ -48,3 +48,4 @@ Cuando creas un repo "git init" aveces debes agregar el servidor remoto
 
 Copiamos la ruta desde el boton verde
 
+* tamaño fotos 456x342
