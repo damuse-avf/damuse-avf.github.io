@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://damuse-avf.github.io/en/page/about/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/page/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/page/about/"
-                />
-  </url><url>
     <loc>https://damuse-avf.github.io/en/blog/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -28,8 +15,11 @@
                 href="https://damuse-avf.github.io/en/blog/"
                 />
   </url><url>
+    <loc>https://damuse-avf.github.io/en/blog/sf-streets/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://damuse-avf.github.io/en/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -49,6 +39,68 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://damuse-avf.github.io/en/"
+                />
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/tags/markdown/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://damuse-avf.github.io/de/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://damuse-avf.github.io/en/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/tags/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://damuse-avf.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://damuse-avf.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dy"
+                href="https://damuse-avf.github.io/dy/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://damuse-avf.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/tags/text/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://damuse-avf.github.io/de/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://damuse-avf.github.io/en/tags/text/"
+                />
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/page/about/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://damuse-avf.github.io/de/page/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://damuse-avf.github.io/en/page/about/"
                 />
   </url><url>
     <loc>https://damuse-avf.github.io/en/tags/emoji/</loc>
@@ -90,29 +142,6 @@
                 href="https://damuse-avf.github.io/en/page/"
                 />
   </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://damuse-avf.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dy"
-                href="https://damuse-avf.github.io/dy/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/"
-                />
-  </url><url>
     <loc>https://damuse-avf.github.io/en/tags/css/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -137,19 +166,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://damuse-avf.github.io/en/tags/html/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/markdown/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/markdown/"
                 />
   </url><url>
     <loc>https://damuse-avf.github.io/en/blog/markdown-syntax/</loc>
@@ -218,19 +234,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://damuse-avf.github.io/en/tags/shortcodes/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/text/"
                 />
   </url><url>
     <loc>https://damuse-avf.github.io/en/categories/</loc>

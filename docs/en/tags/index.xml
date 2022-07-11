@@ -5,7 +5,25 @@
     <link>https://damuse-avf.github.io/en/tags/</link>
     <description>Recent content in Tags on Damuse Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://damuse-avf.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://damuse-avf.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdown</title>
+      <link>https://damuse-avf.github.io/en/tags/markdown/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damuse-avf.github.io/en/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://damuse-avf.github.io/en/tags/text/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damuse-avf.github.io/en/tags/text/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>emoji</title>
       <link>https://damuse-avf.github.io/en/tags/emoji/</link>
@@ -34,15 +52,6 @@
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://damuse-avf.github.io/en/tags/markdown/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://damuse-avf.github.io/en/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>privacy</title>
       <link>https://damuse-avf.github.io/en/tags/privacy/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
@@ -57,15 +66,6 @@
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://damuse-avf.github.io/en/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://damuse-avf.github.io/en/tags/text/</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://damuse-avf.github.io/en/tags/text/</guid>
       <description></description>
     </item>
     
