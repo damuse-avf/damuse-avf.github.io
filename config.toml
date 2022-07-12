@@ -2,6 +2,7 @@ baseurl = "https://www.damuse.dev"
 metaDataFormat = "yaml"
 title = "Damuse's blog"
 theme = "blist"
+googleAnalytics = "G-L3YWBPBST2"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
@@ -127,4 +128,4 @@ DefaultContentLanguageInSubdir = true
     # Enable to include inline HTML
     unsafe = true
 
-googleAnalytics = "G-L3YWBPBST2"
+
