@@ -2,158 +2,158 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://damuse-avf.github.io/en/blog/</loc>
+    <loc>https://www.damuse.dev/en/blog/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://damuse-avf.github.io/de/blog/"
+                href="https://www.damuse.dev/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://damuse-avf.github.io/en/blog/"
+                href="https://www.damuse.dev/en/blog/"
                 />
   </url><url>
-    <loc>https://damuse-avf.github.io/en/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://damuse-avf.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dy"
-                href="https://damuse-avf.github.io/dy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/sf-visit/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/markdown/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/</loc>
+    <loc>https://www.damuse.dev/en/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://damuse-avf.github.io/fr/tags/"
+                href="https://www.damuse.dev/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/"
+                href="https://www.damuse.dev/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://damuse-avf.github.io/dy/tags/"
+                href="https://www.damuse.dev/dy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/"
+                href="https://www.damuse.dev/en/"
                 />
   </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/text/</loc>
+    <loc>https://www.damuse.dev/en/blog/sf-visit/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.damuse.dev/en/tags/markdown/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/text/"
+                href="https://www.damuse.dev/de/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/text/"
+                href="https://www.damuse.dev/en/tags/markdown/"
                 />
   </url><url>
-    <loc>https://damuse-avf.github.io/en/page/about/</loc>
+    <loc>https://www.damuse.dev/en/tags/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.damuse.dev/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.damuse.dev/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dy"
+                href="https://www.damuse.dev/dy/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.damuse.dev/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.damuse.dev/en/tags/text/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.damuse.dev/de/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.damuse.dev/en/tags/text/"
+                />
+  </url><url>
+    <loc>https://www.damuse.dev/en/page/about/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://damuse-avf.github.io/de/page/about/"
+                href="https://www.damuse.dev/de/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://damuse-avf.github.io/en/page/about/"
+                href="https://www.damuse.dev/en/page/about/"
                 />
   </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/sf-streets/</loc>
+    <loc>https://www.damuse.dev/en/blog/sf-streets/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/los-angeles/</loc>
+    <loc>https://www.damuse.dev/en/blog/los-angeles/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/miur-woods/</loc>
+    <loc>https://www.damuse.dev/en/blog/miur-woods/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damuse-avf.github.io/en/page/</loc>
+    <loc>https://www.damuse.dev/en/page/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://damuse-avf.github.io/de/page/"
+                href="https://www.damuse.dev/de/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://damuse-avf.github.io/en/page/"
+                href="https://www.damuse.dev/en/page/"
                 />
   </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/warner-bros/</loc>
+    <loc>https://www.damuse.dev/en/blog/warner-bros/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/yosemite-np/</loc>
+    <loc>https://www.damuse.dev/en/blog/yosemite-np/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/malibu/</loc>
+    <loc>https://www.damuse.dev/en/blog/malibu/</loc>
     <lastmod>2022-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damuse-avf.github.io/en/categories/</loc>
+    <loc>https://www.damuse.dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://damuse-avf.github.io/fr/categories/"
+                href="https://www.damuse.dev/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://damuse-avf.github.io/de/categories/"
+                href="https://www.damuse.dev/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://damuse-avf.github.io/dy/categories/"
+                href="https://www.damuse.dev/dy/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://damuse-avf.github.io/en/categories/"
+                href="https://www.damuse.dev/en/categories/"
                 />
   </url>
 </urlset>
