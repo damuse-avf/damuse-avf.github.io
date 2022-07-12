@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Damuse Blog</title>
+    <title>Damuse&#39;s blog</title>
     <link>https://damuse-avf.github.io/en/</link>
-    <description>Recent content on Damuse Blog</description>
+    <description>Recent content on Damuse&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://damuse-avf.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,19 @@
       <guid>https://damuse-avf.github.io/en/blog/sf-visit/</guid>
       <description>San Francisco tiene muchas atracciones, en sí la ciudad es muy moderna y conserva su arquitectura que es maravillosa. En este post les recomendaré lugares de los cuales yo visité en mi estadía.
 Alcatraz Conocer la Isla de Alcatraz sin duda es uno de los imperdibles cuando visitas San Francisco. La isla está cerca de la ciudad y es posible verla desde algunos puntos. Para poder visitarla es necesario comprar un ticket, el cual es recomendable comprarlo con anticipación porque se llena mucho.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://damuse-avf.github.io/en/page/about/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damuse-avf.github.io/en/page/about/</guid>
+      <description>Mi nombre es Damaris Avila, tengo 29 años y soy ingeniera civil en computación mención informática.
+Actualmente me encuentro trabajando con el cargo de Líder de desarrollo de sistemas en la Universidad Adolfo Ibáñez.
+Además estoy terminando un Magíster en Gestión y Emprendimiento Tecnológico.
+En mis tiempos libres me encanta leer, aprender cosas nuevas, ver peliculas, series y jugar juegos de mesa.
+Quise aprender a usar Hugo y por eso decidí crear este blog.</description>
     </item>
     
     <item>
@@ -69,17 +82,6 @@ Los primeros días nuestra idea era caminar para poder conocer los alrededores. 
       
       <guid>https://damuse-avf.github.io/en/blog/malibu/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://damuse-avf.github.io/en/page/about/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://damuse-avf.github.io/en/page/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmarkhttps://github.</description>
     </item>
     
   </channel>
