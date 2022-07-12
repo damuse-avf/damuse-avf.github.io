@@ -1,26 +1,21 @@
 ---
-author: Katheryn Fox
+author: Damaris Avila
 title: About Me
-date: 2021-07-15
+date: 2022-07-09
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Mi nombre es Damaris Avila, tengo 29 años y soy ingeniera civil en computación mención informática.
 
-Hugo makes use of a variety of open source projects including:
+Actualmente me encuentro trabajando con el cargo de Líder de desarrollo de sistemas en la Universidad Adolfo Ibáñez.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+Además estoy terminando un Magíster en Gestión y Emprendimiento Tecnológico.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+En mis tiempos libres me encanta leer, aprender cosas nuevas, ver peliculas, series y jugar juegos de mesa.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Quise aprender a usar Hugo y por eso decidí crear este blog. Me permite comentar acerca de mis viajes y poder registrar alguno de los tips por si en algún momento alguien se interesara en saber. Además está hecho en Go, lo que me permite aprender de este lenguaje.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
