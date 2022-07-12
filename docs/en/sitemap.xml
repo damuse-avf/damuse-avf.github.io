@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://damuse-avf.github.io/en/blog/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,11 +15,8 @@
                 href="https://damuse-avf.github.io/en/blog/"
                 />
   </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/sf-streets/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://damuse-avf.github.io/en/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -41,8 +38,11 @@
                 href="https://damuse-avf.github.io/en/"
                 />
   </url><url>
+    <loc>https://damuse-avf.github.io/en/blog/sf-visit/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://damuse-avf.github.io/en/tags/markdown/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>https://damuse-avf.github.io/en/tags/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -78,7 +78,7 @@
                 />
   </url><url>
     <loc>https://damuse-avf.github.io/en/tags/text/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -89,6 +89,24 @@
                 hreflang="en"
                 href="https://damuse-avf.github.io/en/tags/text/"
                 />
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/blog/sf-streets/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/blog/los-angeles/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/blog/miur-woods/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/blog/warner-bros/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/blog/yosemite-np/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damuse-avf.github.io/en/blog/malibu/</loc>
+    <lastmod>2022-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://damuse-avf.github.io/en/page/about/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
@@ -103,32 +121,6 @@
                 href="https://damuse-avf.github.io/en/page/about/"
                 />
   </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/emoji/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/emoji/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/blog/emoji-support/"
-                />
-  </url><url>
     <loc>https://damuse-avf.github.io/en/page/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -140,100 +132,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://damuse-avf.github.io/en/page/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/css/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/css/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/html/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/html/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/markdown-syntax/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/blog/markdown-syntax/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/blog/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/blog/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/privacy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/privacy/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/blog/rich-content/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/blog/rich-content/"
-                />
-  </url><url>
-    <loc>https://damuse-avf.github.io/en/tags/shortcodes/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://damuse-avf.github.io/de/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://damuse-avf.github.io/en/tags/shortcodes/"
                 />
   </url><url>
     <loc>https://damuse-avf.github.io/en/categories/</loc>
