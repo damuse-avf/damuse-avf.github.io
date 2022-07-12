@@ -1,4 +1,4 @@
-baseurl = "https://damuse-avf.github.io"
+baseurl = "https://www.damuse.dev"
 metaDataFormat = "yaml"
 title = "Damuse's blog"
 theme = "blist"
