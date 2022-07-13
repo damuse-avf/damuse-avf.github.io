@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.damuse.dev/en/blog/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.damuse.dev/en/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -38,11 +38,8 @@
                 href="https://www.damuse.dev/en/"
                 />
   </url><url>
-    <loc>https://www.damuse.dev/en/blog/sf-visit/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.damuse.dev/en/tags/markdown/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -54,8 +51,11 @@
                 href="https://www.damuse.dev/en/tags/markdown/"
                 />
   </url><url>
+    <loc>https://www.damuse.dev/en/blog/mi-camino/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.damuse.dev/en/tags/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -78,7 +78,7 @@
                 />
   </url><url>
     <loc>https://www.damuse.dev/en/tags/text/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -89,6 +89,9 @@
                 hreflang="en"
                 href="https://www.damuse.dev/en/tags/text/"
                 />
+  </url><url>
+    <loc>https://www.damuse.dev/en/blog/sf-visit/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.damuse.dev/en/page/about/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
