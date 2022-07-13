@@ -15,7 +15,7 @@ Además estoy terminando un Magíster en Gestión y Emprendimiento Tecnológico.
 
 En mis tiempos libres me encanta leer, aprender cosas nuevas, ver peliculas, series y jugar juegos de mesa.
 
-Quise aprender a usar Hugo y por eso decidí crear este blog. Me permite comentar acerca de mis viajes y poder registrar alguno de los tips por si en algún momento alguien se interesara en saber. Además está hecho en Go, lo que me permite aprender de este lenguaje.
+Quise aprender a usar Hugo y por eso decidí crear este blog. Me permite comentar acerca de mis viajes y poder registrar alguno de los tips por si en algún momento alguien se interesara en saber.
 
 
 Learn more about Hugo and contribute on [GitHub](https://github.com/gohugoio).

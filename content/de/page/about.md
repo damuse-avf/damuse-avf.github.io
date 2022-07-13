@@ -1,26 +1,21 @@
 ---
-author: Katheryn Fox
-title: Über mich
-date: 2021-07-15
+author: Damaris Avila
+title: About Me
+date: 2022-07-09
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
 
-Hugo wurde in Go geschrieben und ist ein Open-Source-Generator für statische Sites, der unter der [Apache License 2.0.] (https://github.com/gohugoio/hugo/blob/master/LICENSE) verfügbar ist. Hugo unterstützt TOML-, YAML- und JSON-Datendateitypen , Markdown- und HTML-Inhaltsdateien und verwendet Shortcodes, um Rich Content hinzuzufügen. Andere bemerkenswerte Funktionen sind Taxonomien, mehrsprachiger Modus, Bildverarbeitung, benutzerdefinierte Ausgabeformate, HTML/CSS/JS-Minifizierung und Unterstützung für Sass SCSS-Workflows.
+Mi nombre es Damaris Avila, tengo 29 años y soy ingeniera civil en computación mención informática.
 
-Hugo nutzt eine Vielzahl von Open-Source-Projekten, darunter:
+Actualmente me encuentro trabajando con el cargo de Líder de desarrollo de sistemas en la Universidad Adolfo Ibáñez.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+Además estoy terminando un Magíster en Gestión y Emprendimiento Tecnológico.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+En mis tiempos libres me encanta leer, aprender cosas nuevas, ver peliculas, series y jugar juegos de mesa.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Quise aprender a usar Hugo y por eso decidí crear este blog. Me permite comentar acerca de mis viajes y poder registrar alguno de los tips por si en algún momento alguien se interesara en saber.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
