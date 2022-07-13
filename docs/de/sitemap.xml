@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.damuse.dev/de/page/about/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.damuse.dev/en/page/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.damuse.dev/de/page/about/"
+                />
+  </url><url>
     <loc>https://www.damuse.dev/de/</loc>
-    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,6 +38,19 @@
                 href="https://www.damuse.dev/de/"
                 />
   </url><url>
+    <loc>https://www.damuse.dev/de/page/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.damuse.dev/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.damuse.dev/de/page/"
+                />
+  </url><url>
     <loc>https://www.damuse.dev/de/blog/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -43,19 +69,6 @@
   </url><url>
     <loc>https://www.damuse.dev/de/blog/emoji-support/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.damuse.dev/de/page/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.damuse.dev/en/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.damuse.dev/de/page/"
-                />
   </url><url>
     <loc>https://www.damuse.dev/de/tags/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
@@ -78,19 +91,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.damuse.dev/de/tags/"
-                />
-  </url><url>
-    <loc>https://www.damuse.dev/de/page/about/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.damuse.dev/en/page/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.damuse.dev/de/page/about/"
                 />
   </url><url>
     <loc>https://www.damuse.dev/de/tags/css/</loc>
