@@ -29,61 +29,7 @@ DefaultContentLanguageInSubdir = true
 
     
 
-  [languages.de]
-    contentDir = "content/de" # Deutsch
-    weight = 2
-    languageName = "Deutsch"
-    title = "Blist (mehrsprachig)"
-    description = "Modernes Blog-Theme für Ihre Hugo-Site."
-    [languages.de.params]
-      introTitle = "Hi! soy Damaris Avila"
-      introSubtitle = "Ingeniera de software que disfruta de la tecnología, los juegos de mesa y viajar. Estoy creando este blog para comentar mis experiencias personales y dar algunos tips acerca de mis viajes."
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo-de.png"
-    [[languages.de.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.de.menu.main]]
-        name = "Über mich"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.de.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-        
-  [languages.fr]
-    contentDir = "content/fr" #French
-    weight = 1
-    languageName = "Français"
-    [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
-      introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      introPhoto = "/picture.jpg"
-      logo = ""
-    [[languages.fr.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.fr.menu.main]]
-        name = "À propos"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.fr.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-        
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
-
+  
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
