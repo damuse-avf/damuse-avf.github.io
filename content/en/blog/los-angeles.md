@@ -10,7 +10,7 @@ thumbnail: /LA-1.jpg
 Los Ángeles - California, es una ciudad que tiene un montón de atracciones, pero si no eres muy fan de las películas y la fama, no es un imperdible para ti.
 
 ## Hollywood
-![Placeholder](/LA-1.jpg)
+![Placeholder](/LA-5.jpg)
 
 Quiero contar mi experiencia al llegar a Los Ángeles. Tomamos el vuelo desde San Francisco - California hasta Los Ángeles y debo admitir que movernos de una ciudad muy tranquila y moderna como es SF y llegar a LA fue un cambio muy notorio. Reservamos un hotel que se encontraba ubicado en Hollywood, porque claro, sin informarme lo suficiente, pensé que sería un sector privilegiado para alojar, gran error. 
 
@@ -27,3 +27,16 @@ Si eres fan de Harry Potter, no dudes de ir a Universal Studios. Yo, que persona
 
 
 ## Warner Bros Studio Tour
+
+![Placeholder](/WB-3.jpg)
+
+Lejos el mejor tour que he ido, me encantó. Como fan de la serie Friends, sin duda es uno de los tour más emocionantes que he podido disfrutar. Es por esto que haré un post especial de Warner Bros.
+
+![Placeholder](/WB-7.jpg)
+
+La guitarra de Phoebe de Friends.
+
+## Beverly Hills
+![Placeholder](/LA-2.jpg)
+
+Para nosotros no era un lugar imprescindible donde tuvieramos que ir estando en Los Ángeles, sin embargo, pasamos por ahí y encontramos que se notaba muchísimo la diferencia entre los diferentes sectores de la ciudad. 
