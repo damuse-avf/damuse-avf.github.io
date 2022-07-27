@@ -1,7 +1,7 @@
 ---
 author: "Damaris Avila"
 title: "Lugares para visitar en San Francisco, CA"
-date: 2022-07-10
+date: 2022-07-18
 description: "Recomendación de lugares para visitar en San Francisco, CA"
 tags: ["markdown", "text"]
 thumbnail: /GoldenGate-1.jpg
