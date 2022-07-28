@@ -17,5 +17,5 @@ Me contrataron en una universidad con el cargo de Ingeniera de desarrollo de sof
 
 Debo admitir que no ha sido fácil, pero si me ha encantado lo que he aprendido en este camino. El mundo TI se va actualizando cada día, y yo, a pesar de que no tengo todos los conocimientos que me gustaría, tengo constantemente ese gusto por querer seguir aprendiendo cosas nuevas <span class="emojify">:book::zap:</span>.
 
-En este último tiempo he hecho cursos y leído libros acerca de metodologías como Lean UX, SPRINT, Product Owner, UI Design, Liderazgo y comunicación, entre otras, con el fin de poder aplicar estos conocimientos a mis labores de liderazgo. Ahora con todo este set de conocimientos tengo la curiosidad de cual será mi siguiente desafío...<span class="emojify">:relieved:</span>
+En este último tiempo he hecho cursos y leído libros acerca de metodologías como Lean UX, SPRINT, Product Owner, UI Design, Liderazgo y comunicación, Mindfulness, meditación, entre otras, con el fin de poder aplicar estos conocimientos a mis labores de liderazgo. Ahora con todo este set de conocimientos tengo la curiosidad de cual será mi siguiente desafío...<span class="emojify">:relieved:</span>
 
