@@ -1,15 +1,15 @@
 ---
 author: "Damaris Avila"
-title: "Conociendo Boston"
-date: 2023-09-14
-description: "Trabajando remoto desde Boston"
+title: "Boston, MA"
+date: 2023-09-12
+description: "Trabajando remoto desde Boston, MA."
 tags: ["markdown", "text"]
 thumbnail: /boston-1.jpeg
 ---
 
 Trabajando remoto desde Boston, increíble experiencia <span class="emojify">:sparkles::heart_eyes:</span>
 
-Luego de 14 horas de vuelo, llegamos a Boston un día domingo 17 de junio en la tarde, dejamos las maletas, nos duchamos e inmediatamente salimos a caminar para conocer la ciudad. 
+Luego de 14 horas de vuelo, llegamos a Boston un día domingo 17 de junio en la tarde, dejamos las maletas, nos duchamos e inmediatamente salimos a caminar para conocer la ciudad 🇺🇸. 
 
 Nuestro apartamento se encontraba en el sector de Cambridge, a 10 minutos caminando de la estación de metro Central. 
 
@@ -21,7 +21,7 @@ El primer día pudimos conocer Harvard, Beacon Hill, Kendall, MIT e incluso cruz
 Nuestro horario de trabajo era de las 9 am a 6 pm, misma hora en Stgo y Boston, la diferencia es que al ser verano en USA, se oscurecía a las 21 horas aprox, por lo que nuestras tardes se convertían en momentos para seguir conociendo la ciudad <span class="emojify">:hundred_points:</span>. 
 
 
-Estuvimos trabajando remoto durante 3 semanas, aquí les dejo mis recomendaciones por si un día van a trabajar remoto desde Boston, le saquen el máximo provecho a su estadía <span class="emojify">:light_bulb:</span><span class="emojify">:light_bulb:</span>.
+Estuvimos trabajando remoto durante 3 semanas, aquí les dejo mis recomendaciones por si un día van a trabajar remoto desde Boston, le saquen el máximo provecho a su estadía <span class="emojify">🤩:light_bulb:</span>.
 
 
 ### Recomendaciones para trabajar remoto desde Boston
@@ -33,10 +33,10 @@ Otras maneras de movilizarnos entre Cambridge y Boston fue suscribirnos a las bi
 
 También saliamos a caminar, estabamos muy cerca del charles river, por lo que se puede caminar por la orilla del rio. Aproximadamente a Harvard nos tomaba 25 minutos, al MIT unos 45 min y cruzar el puente Longfellow, alrededor de 1hr y 15 min <span class="emojify">:woman_walking::man_walking:</span>.
 
- La ciudad es muy tranquila, limpia y se siente muy segura. En las noches, se ve que es muy oscuro y solitario, pero en ningún momento nos sentimos inseguros <span class="emojify">:new_moon_face:</span>.
+ La ciudad es muy tranquila, limpia, no vi ninguna cucaracha! y se siente muy segura. En las noches, se ve que es muy oscuro y solitario, pero en ningún momento nos sentimos inseguros <span class="emojify">:new_moon_face:</span>.
 
 #### <span class="emojify">:house_with_garden:</span> Alojamiento
-Alojamos en un AirBnb que quedaba a menos de 5 minutos caminando de un Whole Foods y un Trader Joe's. Nosotros preferimos cocinar los días de trabajo remoto, por lo que comprar en el supermercado era nuestra mejor opción. Recomiendo que a la hora de reservar un alojamiento, asegurarse de que los supermercados queden cerca <span class="emojify">:cooking::cook:</span>.
+Alojamos en un AirBnb que quedaba a menos de 5 minutos caminando de un Whole Foods y un Trader Joe's 🦞. Nosotros preferimos cocinar los días de trabajo remoto, por lo que comprar en el supermercado era nuestra mejor opción. Recomiendo que a la hora de reservar un alojamiento, asegurarse de que los supermercados queden cerca <span class="emojify">:cooking::cook:</span>.
 
 Si bien nuestro apartamento tenía cocina, baño privado y lavadora, uno de los puntos a considerar como recomendación si vas a trabajar remoto, es que ojalá incluya un escritorio o mesa cómoda para eso. Nos pasó que además de no tener la comodidad de un escritorio para cada uno, solo teníamos un ambiente, y al estar ambos en reuniones, en ocasiones se volvía incómodo para trabajar <span class="emojify">:desktop_computer::woman_technologist:</span>.
 
