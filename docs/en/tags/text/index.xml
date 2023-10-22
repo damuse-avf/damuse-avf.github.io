@@ -6,15 +6,26 @@
     <description>Recent content in text on Damuse&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/en/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/en/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conociendo Boston</title>
+      <title>Babson Build Program</title>
+      <link>https://www.damuse.dev/en/blog/babson-build/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/en/blog/babson-build/</guid>
+      <description>Mi experiencia de hacer un programa de emprendimiento en Babson College ✨😍.
+Babson build corresponde a un curso opcional del Magister en gestión y emprendimiento tecnológico de la Universidad Adolfo Ibáñez (UAI). El curso tiene una duración de una semana y se encuentra en el campus de Babson College en Boston, Massachusetts, USA 🇺🇸
+Bienvenida Comienza un día domingo en donde dan la bienvenida, te entregan las llaves de la habitación, una mochila con una carpeta con documentos del programa, una tarjeta para abrir las puertas y para las comidas, además te enseñan el campus y conoces a tus compañeros.</description>
+    </item>
+    
+    <item>
+      <title>Boston, MA</title>
       <link>https://www.damuse.dev/en/blog/boston-2023/</link>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.damuse.dev/en/blog/boston-2023/</guid>
       <description>Trabajando remoto desde Boston, increíble experiencia ✨😍
-Luego de 14 horas de vuelo, llegamos a Boston un día domingo 17 de junio en la tarde, dejamos las maletas, nos duchamos e inmediatamente salimos a caminar para conocer la ciudad.
+Luego de 14 horas de vuelo, llegamos a Boston un día domingo 17 de junio en la tarde, dejamos las maletas, nos duchamos e inmediatamente salimos a caminar para conocer la ciudad 🇺🇸.
 Nuestro apartamento se encontraba en el sector de Cambridge, a 10 minutos caminando de la estación de metro Central.
 El primer día pudimos conocer Harvard, Beacon Hill, Kendall, MIT e incluso cruzar el Charles River caminando por el puente Longfellow.</description>
     </item>
