@@ -1,7 +1,7 @@
 ---
 author: "Damaris Avila"
 title: "Babson Build Program"
-date: 2023-09-14
+date: 2023-10-22
 description: "Curso de emprendimiento en Babson College, Wellesley, MA."
 tags: ["markdown", "text"]
 thumbnail: /babson-4.jpg
@@ -47,9 +47,9 @@ La verdad es que tener todo ahí mismo fue genial! Del hall al casino eran 5 min
 También se puede pedir comida por uber eats y llegan a la misma entrada del hall.
 
 ### Y finalmente el Networking 
-Al ser un curso internacional, conoci gente de muchos paises! Costa rica, mexico, sudafrica, irlanda, india, colombia y chile.
+Al ser un curso internacional, conoci gente de muchos paises! Costa rica, Mexico, Sudafrica, Irlanda, India, Colombia y Chile.
 
-Al estar todos viviendo en el mismo lugar, las salidas o juntas con los compañeros se daban en el mismo edificio! Buen rato para comer pizza y conocernos! Ah y claro, estudiar! 🤓😅
+Al estar todos viviendo en el mismo lugar, las juntas con los compañeros se daban en el mismo edificio! Buen rato para conversar y conocernos! Ah y claro, estudiar! 🤓😅
 
 
 
