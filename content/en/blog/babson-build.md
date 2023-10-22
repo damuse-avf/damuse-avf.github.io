@@ -16,6 +16,7 @@ Comienza un día domingo en donde dan la bienvenida, te entregan las llaves de l
 
 Salimos a caminar por el campus y nos sacamos la típica foto saltando en las escaleras del edificio que dice Babson College. Luego, en la noche pedimos pizza por uber eats y nos quedamos como hasta las 3 am conociendo a algunos compañeros 🍕.
 
+![Placeholder](/Babson-1.jpg)
 
 ### Habitaciones
 Compartí alojamiento con 3 chicas (2 de costa rica y 1 chilena) cada una con su propia habitación y llaves, baño compartido, en Mandell Family Hall, un edificio dentro del mismo campus. El primer y segundo piso del edificio corresponde a las habitaciones de mujeres y el tercero y cuarto al de hombres. (Mi pareja estaba en el tercer piso) 🏨
@@ -39,6 +40,8 @@ Cuando me inscribí en el curso, jamás imaginé lo hermoso que podría ser el c
 
 Los edificios con una fachada estilo de ladrillos, entre mucho pasto y árboles, se pueden ver ardillas cuando caminas a las salas, el famoso globo terráqueo que se encuentra en el parque y canchas de futbol, gimnasio, cafeterías, estacionamientos... de todo 🏫!
 
+![Placeholder](/Babson-2.jpg)
+
 ### Las comidas
 El programa también incluye todas las comidas, desayuno, almuerzo y cena. Estilo buffet y en algunos días pizza en un bar dentro del mismo campus 🍕.
 
@@ -51,6 +54,8 @@ Al ser un curso internacional, conoci gente de muchos paises! Costa rica, Mexico
 
 Al estar todos viviendo en el mismo lugar, las juntas con los compañeros se daban en el mismo edificio! Buen rato para conversar y conocernos! Ah y claro, estudiar! 🤓😅
 
+
+![Placeholder](/Babson-3.jpg)
 
 
 
