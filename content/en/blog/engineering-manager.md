@@ -37,7 +37,7 @@ Noviembre resulta ser un mes complejo, porque el ánimo de los equipos no estaba
 
 En diciembre y debido al layoff de octubre, mi equipo, el que mencioné al comienzo que era de 4 persona, quedó en solo 2 (1 Tech lead y 1 QA) y dado a que ese dominio no tenía ningun desarrollador, tomé la decisión de unificarlos, siendo un solo gran dominio (REX: route experience 🦖), Además, se acercaba la fecha de las vacaciones y estratégicamente necesitábamos el apoyo de todos. 🌴
 
-De diciembre a febrero todo iba muy bien, yo me había capacitando para aplicar correctamente la metodología scrum; certificación como Scrum Master y mentorías con un coach agile certificado, para conocer formas de medir el desempeño del equipo. Tambiém revisaba los planes de carrera, reuniones 1:1, el cumplimiento de los accionables de las retro, guíando al equipo para generar cada vez menos carry over y disminuyendo la cola de QA. 
+De diciembre a febrero todo iba muy bien, yo me estaba capacitando para aplicar correctamente la metodología scrum; certificación como Scrum Master y mentorías con un coach agile certificado, para conocer formas de medir el desempeño del equipo. También revisaba los planes de carrera, reuniones 1:1, el cumplimiento de los accionables de las retro, guíando al equipo para generar cada vez menos carry over y disminuyendo la cola de QA. 
 
 #### Reestructuración
 En marzo, vemos que las métricas no estaban saliendo como se esperaban, demasiado carry over en dominios donde no se tenia mucha visibilidad del avance de las tareas. Surge la necesidad de hacer una hackathon, un nuevo layoff y reestructurar de forma completa el área de ingeniería. 
