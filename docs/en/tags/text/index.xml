@@ -6,7 +6,18 @@
     <description>Recent content in text on Damuse Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/en/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/en/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi primer año como Engineering Manager</title>
+      <link>https://www.damuse.dev/en/blog/engineering-manager/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/en/blog/engineering-manager/</guid>
+      <description>En este post, quiero contar acerca de mi primer año de experiencia como engineering manager 👩‍💻
+¿Por qué ser una Engineering Manager? Primero que todo, antes de buscar este rol como parte de mi desarrollo profesional, yo había estado trabajando como Líder de desarrollo informático, donde tenia a cargo un equipo de 3 personas y 2 externos.
+Mis funciones eran trabajar en conjunto con las gestoras de proyectos, diseñar y desarollar soluciones informáticas, asignar tareas a mi equipo siendo la responsable del cumplimiento de los plazos, ejecutar los pasos a producción, establecer objetivos, dar feedback al equipo de desarrollo, coordinar con otros lideres del área, hacer seguimiento a las iniciativas y gestionar proyectos con proveedores internos y externos.</description>
+    </item>
+    
     <item>
       <title>Babson Build Program</title>
       <link>https://www.damuse.dev/en/blog/babson-build/</link>

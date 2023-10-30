@@ -11,7 +11,7 @@ En este post, quiero contar acerca de mi primer año de experiencia como enginee
 
 #### ¿Por qué ser una Engineering Manager?
 
-Primero que todo, les quiero contar que antes de buscar este rol como parte de mi desarrollo profesional, yo había estado trabajando como Líder de desarrollo informático, donde tenia a cargo un equipo de 3 personas y 2 externos. 
+Primero que todo, antes de buscar este rol como parte de mi desarrollo profesional, yo había estado trabajando como Líder de desarrollo informático, donde tenia a cargo un equipo de 3 personas y 2 externos. 
 
 Mis funciones eran trabajar en conjunto con las gestoras de proyectos, diseñar y desarollar soluciones informáticas, asignar tareas a mi equipo siendo la responsable del cumplimiento de los plazos, ejecutar los pasos a producción, establecer objetivos, dar feedback al equipo de desarrollo, coordinar con otros lideres del área, hacer seguimiento a las iniciativas y gestionar proyectos con proveedores internos y externos. 
 
@@ -20,7 +20,9 @@ Cuando comencé a buscar nuevos desafíos laborales, no encontraba un rol que se
 
 #### La nueva Engineering Manager
 
-Mi primer mes como engineering manager (EM), comienza en septiembre de 2022, liderando a 2 equipos que le llamábamos dominios, donde uno era de 8 personas (dominio: plans) y el otro de 4 personas (dominio: customers). Mi función estaba en liderar a 3 ingerieros QA, 2 tech lead y 7 devs. Mi primer objetivo fue aplicar las ceremonias de scrum y aquí comienza la diferencia: había aplicado retro y stand up en equipos bastante pequeños, mi primera retro ante tantas personas que recién venía conociendo fue un gran upgrade. 
+Mi primer mes como engineering manager (EM), comienza en septiembre de 2022, liderando a 2 equipos los que llamábamos dominios, donde uno era de 8 personas (dominio: plans) y el otro de 4 personas (dominio: customers). Mi función estaba en liderar a 3 ingerieros QA, 2 tech lead y 7 devs. 
+
+Mi primer objetivo fue aplicar las ceremonias de scrum y aquí comienza la diferencia: había aplicado retro y stand up en equipos bastante pequeños, mi primera retro ante tantas personas que recién venía conociendo fue un gran hito. 
 
 En octubre, participé en un mapeo de talentos, donde evaluamos el potencial y desempeño de cada integrante, esto me sirvió para conocer quienes trabajaban en cada dominio. Además, tuve que promover a un dev senior como tech lead. Todo fue excelente, mi jefe (cto) me apoyaba y confiaba en mi, siempre vio mi potencial y mi equipo me acogió con mucho cariño y lo siguen haciendo hasta el dia de hoy 🤗 
 
@@ -28,7 +30,7 @@ En octubre, participé en un mapeo de talentos, donde evaluamos el potencial y d
 #### Se comienza a poner dificil...
 Pocos días después, me citaron a una reunión para darme la noticia de que tendríamos que hacer un layoff (de 200 personas llegar a 150, debido a que no estabamos cumpliendo con las metas necesitábamos una reestructuración). Fue en ese momento que sin conocer mucho al equipo tuve que tomar la decisión de despedir a tres personas 😥.
 
-Aquí viene mi experiencia como EM, siendo la primera vez que me tocaba despedir a una persona, y que no solo era una, sino que 3 personas y ninguna por su desempeño. Todo lo logré siguiendo un speech para no cometer algún error que nos perjudicara legalmente y no niego que fue muy difícil, incluso me costó dormir la noche anterior. Además, dentro de las salidas estaban 2 de mis pares EMs y la PM que trabajaba conmigo.
+Aquí viene mi experiencia como EM, siendo la primera vez que me tocaba despedir a una persona, y que no solo era una, sino que 3 personas y ninguna por su desempeño, sino que por la reestructuración. Todo lo logré siguiendo un speech para no cometer algún error que nos perjudicara legalmente y no niego que fue muy difícil, incluso me costó dormir la noche anterior. Además, dentro de las salidas estaban 2 de mis pares EMs y la PM que trabajaba conmigo.
 
 Noviembre resulta ser un mes complejo, porque el ánimo de los equipos no estaba de lo mejor y porque yo tuve que ausentarme por una semana debido al fallecimiento de mi madre 👼 ... fue un mes que no puedo recordar muy bien como pasó, pero que agradezco infinitamente el apoyo que recibí.
 
@@ -37,10 +39,10 @@ Noviembre resulta ser un mes complejo, porque el ánimo de los equipos no estaba
 
 En diciembre y debido al layoff de octubre, mi equipo, el que mencioné al comienzo que era de 4 persona, quedó en solo 2 (1 Tech lead y 1 QA) y dado a que ese dominio no tenía ningun desarrollador, tomé la decisión de unificarlos, siendo un solo gran dominio (REX: route experience 🦖), Además, se acercaba la fecha de las vacaciones y estratégicamente necesitábamos el apoyo de todos. 🌴
 
-De diciembre a febrero todo iba muy bien, yo me estaba capacitando para aplicar correctamente la metodología scrum; certificación como Scrum Master y mentorías con un coach agile certificado, para conocer formas de medir el desempeño del equipo. También revisaba los planes de carrera, reuniones 1:1, el cumplimiento de los accionables de las retro, guíando al equipo para generar cada vez menos carry over y disminuyendo la cola de QA. 
+De diciembre a febrero todo iba muy bien, yo me estaba capacitando para aplicar correctamente la metodología scrum; certificación como Scrum Master y mentorías con un coach agile certificado, para conocer formas de medir el desempeño del equipo. También revisaba los planes de carrera, reuniones 1:1, el cumplimiento de los accionables de las retro, guíando al equipo para generar cada vez menos carry-over y disminuyendo la cola de QA. 
 
 #### Reestructuración
-En marzo, vemos que las métricas no estaban saliendo como se esperaban, demasiado carry over en dominios donde no se tenia mucha visibilidad del avance de las tareas. Surge la necesidad de hacer una hackathon, un nuevo layoff y reestructurar de forma completa el área de ingeniería. 
+En marzo, vemos que las métricas no estaban saliendo como se esperaban, demasiado carry-over en dominios donde no se tenia mucha visibilidad del avance de las tareas. Surge la necesidad de hacer una hackathon, un nuevo layoff y reestructurar de forma completa el área de ingeniería. 
 
 Quedamos 3 managers (las 3 siendo mujeres, lo encuentro genial! mujeres líderes en informática es poco común 👩‍💻) juntas, redefinimos por completo la estructura por dominios.  Definimos la nueva estructura y la presentamos al equipo de ingeniería para que nos dieran sugerencias y asi fue como la aplicamos. Nos dividimos las responsabilidades en 3: una EM para las integraciones, otra EM para data science y otra EM para plataforma. A mi me corresponde ser la EM del desarrollo de la plataforma y que lo nombramos como equipo T-REX 🦖 
 
@@ -62,4 +64,4 @@ En septiembre, ya cumpliendo un año en el rol, me encuentro liderando a 18 pers
 
 
 #### Conclusiones
-Soy una Enginering Manager, con 18 personas a cargo, donde he tenido que efectuar salidas, reestructuraciones, crear y aplicar una nueva metodología de trabajo. Puedo decir que se ha vuelto mas agotador, reuniones 1:1, sync con los TL y arquitectos, retros, stand up, seguimiento (en el tablero de jira) y gestion de las iniciativas con 3 PMs diferentes, sin embargo, estoy rodeada de gente maravillosa, donde nos apoyamos como compañeritas EMs, con un CTO y VP que nos escuchan y guían constantemente, una people partner que nos acompaña para ser mejores lideres y un equipo que me mantiene cada dia más motivada, aprendiendo y viendo el crecimiento de cada integrante del equipo. 🚀
+Soy una Engineering Manager, con 18 personas a cargo, donde tuve que efectuar salidas, reestructuraciones, crear y aplicar una nueva metodología de trabajo. Puedo decir que se ha vuelto mas agotador, reuniones 1:1, sync con los TL y arquitectos, retros, stand up, seguimiento (en el tablero de jira) y gestion de las iniciativas con 3 PMs diferentes, sin embargo, estoy rodeada de gente maravillosa, donde nos apoyamos como compañeritas EMs, con un CTO y VP que nos escuchan y guían constantemente, una people partner que nos acompaña para ser mejores líderes y un equipo que me mantiene cada dia más motivada, aprendiendo y viendo el crecimiento de cada integrante del equipo. 🚀
