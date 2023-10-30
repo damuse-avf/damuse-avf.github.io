@@ -4,7 +4,7 @@ title: "Mi primer año como Engineering Manager"
 date: 2023-10-28
 description: "Mi experiencia de cómo llegué al rol de EM."
 tags: ["markdown", "text"]
-thumbnail: /picture-4.jpg
+thumbnail: /picture-5.jpg
 ---
 
 En este post, quiero contar acerca de mi primer año de experiencia como engineering manager <span class="emojify">:woman_technologist:</span> 
