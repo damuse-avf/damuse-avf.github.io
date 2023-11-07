@@ -5,29 +5,27 @@ theme = "blist"
 googleAnalytics = "G-L3YWBPBST2"
 enableEmoji = true
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 DefaultContentLanguageInSubdir = true
 [languages]
-  [languages.en]
-    contentDir = "content/en" #English
+  [languages.es]
+    contentDir = "content/es" #Español
     weight = 1
-    languageName = "English"
-    [languages.en.params]
+    languageName = "Español"
+    [languages.es.params]
       introTitle = "Hi! Soy Damaris Avila"
       introSubtitle = "Ingeniera de software que disfruta de la tecnología, los juegos de mesa y viajar. Estoy creando este blog para comentar mis experiencias personales y dar algunos tips acerca de mis viajes."
       introPhoto = "/picture.jpg"
       logo = ""
-    [[languages.en.menu.main]]
+    [[languages.es.menu.main]]
         name = "Blog"
         url = "blog"
         weight = 1
 
-    [[languages.en.menu.main]]
-        name = "About"
+    [[languages.es.menu.main]]
+        name = "Acerca de mi"
         url = "page/about/"
         weight = 2
-
-    
 
   
 [params]

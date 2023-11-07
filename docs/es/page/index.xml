@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Damuse Dev</title>
+    <link>https://www.damuse.dev/es/page/</link>
+    <description>Recent content in Pages on Damuse Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/es/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://www.damuse.dev/es/page/about/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/page/about/</guid>
+      <description>Mi nombre es Damaris Avila, soy ingeniera civil en computación mención informática.
+En mis tiempos libres me encanta leer, aprender cosas nuevas, ver peliculas, series y jugar juegos de mesa.
+Quise aprender a usar Hugo y por eso decidí crear este blog. Me permite comentar acerca de mis viajes y poder registrar alguno de los tips por si en algún momento alguien se interesara en saber.</description>
+    </item>
+    
+  </channel>
+</rss>
