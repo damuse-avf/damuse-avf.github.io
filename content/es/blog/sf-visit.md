@@ -1,8 +1,8 @@
 ---
 author: "Damaris Avila"
-title: "Lugares para visitar en San Francisco, CA"
+title: "Lugares que visité en San Francisco, California"
 date: 2022-07-18
-description: "Recomendación de lugares para visitar en San Francisco, CA"
+description: "Recomendación de lugares para visitar en San Francisco, CA."
 tags: ["markdown", "text"]
 thumbnail: /GoldenGate-1.jpg
 ---
@@ -57,6 +57,14 @@ La famosa fábrica de chocolates de San Francisco, el olor a chocolate es encant
 ## Painted Ladies
 ![Placeholder](/Painted-1.jpg)
 Mi prima me recomendó que fueramos a visitar las casitas pintadas, la verdad es que son muy bonitas y es posible observarlas desde un parque (Alamo Square Park). Ideal para pasar una tarde agradable.
+
+## Miur Woods National Monument
+![Placeholder](/Miurwoods-1.jpg)
+Arrendamos un auto y fuimos temprano a conocer Miur woods, ha sido uno de los parques que mas me ha gustado con una cantidad extensa de sequoias.
+
+## Yosemite National Park
+![Placeholder](/Yosemite-1.jpg)
+Para poder conocer este parque, contratamos un tour, que nos llevó en un bus. El trayecto de ida fue de alrededor 3 horas, haciendo una parada para poder tomar desayuno. En el parque habían baños dentro de una cafetería y también era posible comprar comida rápida como hamburguesas con papas fritas.
 
 ## Comprar en Amazon Go
 ![Placeholder](/Amazongo.jpg)

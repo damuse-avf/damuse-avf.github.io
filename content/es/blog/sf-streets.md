@@ -1,8 +1,8 @@
 ---
 author: "Damaris Avila"
-title: "Calles de San Francisco, CA"
+title: "Calles de San Francisco, California"
 date: 2022-07-09
-description: "Comentarios acerca de las calles en San Francisco"
+description: "Un post especial con mis comentarios acerca de las calles en San Francisco."
 tags: ["markdown", "text"]
 thumbnail: /California-st.jpg
 ---

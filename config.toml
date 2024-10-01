@@ -1,6 +1,6 @@
 baseurl = "https://www.damuse.dev"
 metaDataFormat = "yaml"
-title = "Damuse Dev"
+title = "Damuse ☀️👩‍💻"
 theme = "blist"
 googleAnalytics = "G-L3YWBPBST2"
 enableEmoji = true
@@ -13,8 +13,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "Español"
     [languages.es.params]
-      introTitle = "Hi! Soy Damaris Avila"
-      introSubtitle = "Ingeniera de software que disfruta de la tecnología, los juegos de mesa y viajar. Estoy creando este blog para comentar mis experiencias personales y dar algunos tips acerca de mis viajes."
+      introTitle = "Hi! Soy Damaris 💕"
+      introSubtitle = "Ingeniera de software, que disfruta de la tecnología, los juegos de mesa y viajar. Estoy creando este blog para comentar mis experiencias personales y dar algunos tips acerca de mis viajes."
       introPhoto = "/picture.jpg"
       logo = ""
     [[languages.es.menu.main]]
@@ -33,7 +33,7 @@ DefaultContentLanguageInSubdir = true
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Custom copyright - optional
   copyright = "Copyright © 2022 - Damaris Avila · All rights reserved"
@@ -45,7 +45,7 @@ DefaultContentLanguageInSubdir = true
   ascentColor = "bg-pink-50"
 
   # The page bundle that is shown on the front page
-  frontBundle = "blog"
+  # frontBundle = "blog"
 
 [params.homepage.social]
   # Global params xommon for both languages

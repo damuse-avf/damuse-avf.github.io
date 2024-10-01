@@ -1,8 +1,8 @@
 ---
 author: "Damaris Avila"
-title: "Boston, MA"
+title: "Un mes trabajando remoto desde Boston, Massachusetts"
 date: 2023-09-12
-description: "Trabajando remoto desde Boston, MA."
+description: "Experiencia de trabajar remoto desde Boston, MA."
 tags: ["markdown", "text"]
 thumbnail: /boston-1.jpeg
 ---

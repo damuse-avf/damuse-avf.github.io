@@ -1,14 +1,20 @@
 ---
 author: Damaris Avila
 title: About Me
-date: 2023-09-13
+date: 2024-09-30
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
 
-Mi nombre es Damaris Avila, soy ingeniera civil en computación mención informática.
+Hi! soy Damaris, ingeniera civil en computación mención informática con un Máster en Gestión de innovación y emprendimiento tecnológico.
 
-En mis tiempos libres me encanta leer, aprender cosas nuevas, ver peliculas, series y jugar juegos de mesa.
+Me gusta el apodo Damuse, porque es la combinación de mi nombre *Dam* + *Muse* mi banda de música favorita 🎸🤘
 
-Quise aprender a usar Hugo y por eso decidí crear este blog. Me permite comentar acerca de mis viajes y poder registrar alguno de los tips por si en algún momento alguien se interesara en saber.
+Me encanta viajar, leer, aprender cosas nuevas, ver peliculas, series y jugar juegos de mesa. ✈️
+
+Quise aprender a usar Hugo y por eso decidí crear este blog. Me permite comentar acerca de mis viajes, experiencias personales y poder registrar alguno de los tips por si en algún momento alguien se interesara en saber.
+
+Soy Chilena y actualmente me encuentro trabajando remoto desde Canadá 📍🇨🇦
+
+

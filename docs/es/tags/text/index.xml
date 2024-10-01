@@ -1,12 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>text on Damuse Dev</title>
+    <title>text on Damuse ☀️👩‍💻</title>
     <link>https://www.damuse.dev/es/tags/text/</link>
-    <description>Recent content in text on Damuse Dev</description>
+    <description>Recent content in text on Damuse ☀️👩‍💻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/es/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/es/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lugares que he visitado en mi estadía en Vancouver, Canadá</title>
+      <link>https://www.damuse.dev/es/blog/vancouver-visit-2024/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/vancouver-visit-2024/</guid>
+      <description>Lugares increíbles que he conocido durante mi estadía en British Columbia,Canadá 🇨🇦✨😍
+Kitsilano Downtown Vancouver Stanley Park Victoria Lighthouse Park Downtown Vancouver North vancouver Capilano Grouse Mountain Cypress Mountain Eagle coaster Deep cove Lynn cannyon Whytecliff Horseshoe Bay Bowen Island Granville Island Science World Gastown Whistler Joffre Lake </description>
+    </item>
+    
+    <item>
+      <title>Seis meses trabajando remoto desde Vancouver, British Columbia</title>
+      <link>https://www.damuse.dev/es/blog/canada-remote-2024/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/canada-remote-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And that kids, Is how I met Robin</title>
+      <link>https://www.damuse.dev/es/blog/how-i-met-robin/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/how-i-met-robin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auroras Boreales en Vancouver, Canadá</title>
+      <link>https://www.damuse.dev/es/blog/vancouver-auroras-2024/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/vancouver-auroras-2024/</guid>
+      <description>Auroras Boreales en Vancouver, British Columbia, Canadá 🇨🇦✨😍</description>
+    </item>
+    
+    <item>
+      <title>Una semana trabajando remoto desde Ciudad de Mexico</title>
+      <link>https://www.damuse.dev/es/blog/mexico-remote-2024/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/mexico-remote-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dos semanas trabajando remoto desde Reino Unido</title>
+      <link>https://www.damuse.dev/es/blog/reino-unido-2024-remote/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/reino-unido-2024-remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lugares que visité durante una semana en Edimburgo, Reino Unido</title>
+      <link>https://www.damuse.dev/es/blog/edimburgo-visit-2024/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/edimburgo-visit-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lugares que visité durante una semana en Londres, Reino Unido</title>
+      <link>https://www.damuse.dev/es/blog/londres-visit-2024/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/londres-visit-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Una semana trabajando remoto desde Buenos Aires, Argentina</title>
+      <link>https://www.damuse.dev/es/blog/buenos-aires-2023/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.damuse.dev/es/blog/buenos-aires-2023/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Mi primer año como Engineering Manager</title>
       <link>https://www.damuse.dev/es/blog/engineering-manager/</link>
@@ -19,7 +101,7 @@ Mis funciones eran trabajar en conjunto con las gestoras de proyectos, diseñar 
     </item>
     
     <item>
-      <title>Babson Build Program</title>
+      <title>Curso de emprendimiento en Babson College, Massachusetts</title>
       <link>https://www.damuse.dev/es/blog/babson-build/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
@@ -30,7 +112,7 @@ Bienvenida Comienza un día domingo en donde dan la bienvenida, te entregan las 
     </item>
     
     <item>
-      <title>Boston, MA</title>
+      <title>Un mes trabajando remoto desde Boston, Massachusetts</title>
       <link>https://www.damuse.dev/es/blog/boston-2023/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       
@@ -52,7 +134,7 @@ Cursar una carrera en donde el porcentaje de mujeres que ingresan es bastante me
     </item>
     
     <item>
-      <title>Warner Bros tour, Los Ángeles, CA</title>
+      <title>Warner Bros tour, Los Ángeles, California</title>
       <link>https://www.damuse.dev/es/blog/warner-bros/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -63,7 +145,7 @@ En segundo lugar, puedo decir que siempre pensé que la serie Friends había sid
     </item>
     
     <item>
-      <title>Lugares para visitar en San Francisco, CA</title>
+      <title>Lugares que visité en San Francisco, California</title>
       <link>https://www.damuse.dev/es/blog/sf-visit/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
@@ -73,7 +155,7 @@ Alcatraz Conocer la Isla de Alcatraz sin duda es uno de los imperdibles cuando v
     </item>
     
     <item>
-      <title>Los Ángeles, CA</title>
+      <title>Lugares que visité en Los Ángeles, California</title>
       <link>https://www.damuse.dev/es/blog/los-angeles/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
@@ -83,7 +165,7 @@ Hollywood Quiero contar mi experiencia al llegar a Los Ángeles. Tomamos el vuel
     </item>
     
     <item>
-      <title>Calles de San Francisco, CA</title>
+      <title>Calles de San Francisco, California</title>
       <link>https://www.damuse.dev/es/blog/sf-streets/</link>
       <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
       

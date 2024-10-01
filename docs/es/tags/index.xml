@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Damuse Dev</title>
+    <title>Tags on Damuse ☀️👩‍💻</title>
     <link>https://www.damuse.dev/es/tags/</link>
-    <description>Recent content in Tags on Damuse Dev</description>
+    <description>Recent content in Tags on Damuse ☀️👩‍💻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.damuse.dev/es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>markdown</title>
       <link>https://www.damuse.dev/es/tags/markdown/</link>
-      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.damuse.dev/es/tags/markdown/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>text</title>
       <link>https://www.damuse.dev/es/tags/text/</link>
-      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.damuse.dev/es/tags/text/</guid>
       <description></description>

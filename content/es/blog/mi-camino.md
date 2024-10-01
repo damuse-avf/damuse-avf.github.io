@@ -2,7 +2,7 @@
 author: "Damaris Avila"
 title: "Mi camino de aprendizaje"
 date: 2023-01-04
-description: "Un poco acerca mi trayectoria en el mundo TI"
+description: "Un poco acerca mi trayectoria siendo mujer en el mundo TI."
 tags: ["markdown", "text"]
 thumbnail: /picture-1.jpg
 ---

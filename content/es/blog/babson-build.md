@@ -1,8 +1,8 @@
 ---
 author: "Damaris Avila"
-title: "Babson Build Program"
+title: "Curso de emprendimiento en Babson College, Massachusetts"
 date: 2023-10-21
-description: "Curso de emprendimiento en Babson College, Wellesley, MA."
+description: "Mi experiencia de haber realizado el curso de emprendimiento Babson Build Program en Babson College, Wellesley, MA."
 tags: ["markdown", "text"]
 thumbnail: /babson-4.jpg
 ---

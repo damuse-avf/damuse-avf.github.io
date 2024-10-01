@@ -1,6 +1,6 @@
 ---
 author: "Damaris Avila"
-title: "Los Ángeles, CA"
+title: "Lugares que visité en Los Ángeles, California"
 date: 2022-07-15
 description: "Comentarios acerca de mi estadía en Los Ángeles, CA."
 tags: ["markdown", "text"]

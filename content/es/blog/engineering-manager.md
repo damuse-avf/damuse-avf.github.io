@@ -2,7 +2,7 @@
 author: "Damaris Avila"
 title: "Mi primer año como Engineering Manager"
 date: 2023-10-28
-description: "Mi experiencia de cómo llegué al rol de EM."
+description: "Mi experiencia siendo Engineer Manager en una start up."
 tags: ["markdown", "text"]
 thumbnail: /picture-5.jpg
 ---
@@ -51,7 +51,7 @@ De mayo a junio hubo mucha tensión entre las áreas, debido al layoff y a que e
 
 #### Nueva metodología de trabajo Simpli-UP
 
-Como mencioné anteriormente, necesitábamos que la metodología de trabajo se adaptara a la nueva estructura de ingeniería, dado que la forma en como se estaba aplicando scrum no estaba funcionando en todos los dominios. Decidimos crear una nueva metodología de trabajo llamada Simpli-Up, basada en diferentes metodologías o marcos de trabajo tales como: ShapeUp, el modelo de Spotify (squads), ceremonias de Scrum y utilizando un tablero Kanban. En otro post les contaré cómo ha resultado esta metodología. 
+Como mencioné anteriormente, necesitábamos que la metodología de trabajo se adaptara a la nueva estructura de ingeniería, dado que la forma en como se estaba aplicando scrum no estaba funcionando en todos los dominios. Decidimos crear una nueva metodología de trabajo, basada en diferentes metodologías o marcos de trabajo tales como: ShapeUp, el modelo de Spotify (squads), ceremonias de Scrum y utilizando un tablero Kanban. En otro post les contaré cómo ha resultado esta metodología. 
 
 En abril, cerré los últimos sprint por dominios, y en mayo dimos inicio con la nueva metodología de trabajo Simpli-Up, fue un gran desafío 🤩. Nos tomó 1 mes diseñarla y documentarla, por lo que las reglas o condiciones no fueron tan complejas a la hora de presentarla por primera vez. 
 
@@ -66,4 +66,4 @@ En septiembre, ya cumpliendo un año en el rol, me encuentro liderando a un equi
 #### Experiencia
 Soy una Engineering Manager, con 18 personas a cargo, donde en el primer año de experiencia tuve que efectuar salidas, reestructuraciones, crear y aplicar una nueva metodología de trabajo. No puedo negar que se ha vuelto un poco más agotador, reuniones 1:1, sync con los TL y arquitectos, retros, stand up, seguimiento (en el tablero de jira) y gestion de las iniciativas con 3 PMs diferentes.
 
-Lo mejor de todo es que estoy rodeada de gente maravillosa, donde nos apoyamos como compañeritas EMs, con un CTO y VP que nos escuchan y guían constantemente, una people partner que nos acompaña para ser mejores líderes y un equipo que me mantiene cada dia más motivada, aprendiendo y viendo el crecimiento de cada integrante del equipo. 🚀
+Lo mejor de todo es que estoy rodeada de gente maravillosa, donde nos apoyamos, nos escuchamos y guíamos constantemente, people partner que nos acompaña para ser mejores líderes y un equipo que me mantiene cada dia más motivada, aprendiendo y viendo el crecimiento de cada integrante del equipo. 🚀

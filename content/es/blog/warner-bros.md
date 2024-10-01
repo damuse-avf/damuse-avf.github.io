@@ -1,6 +1,6 @@
 ---
 author: "Damaris Avila"
-title: "Warner Bros tour, Los Ángeles, CA"
+title: "Warner Bros tour, Los Ángeles, California"
 date: 2022-08-14
 description: "Lejos lo mejor si te gusta Friends o The Big Bang Theory."
 tags: ["markdown", "text"]
