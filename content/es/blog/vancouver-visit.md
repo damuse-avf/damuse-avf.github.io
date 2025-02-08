@@ -196,6 +196,18 @@ Lugares que recomiendo visitar si vienes a Vancouver, British Columbia, Canadá 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="flex: 1 1 45%; text-align: center;">
+    <p>Whistler Village</p>
+    <a href="https://www.google.com/maps/search/Whistler+Village,+Whistler,+BC" target="_blank">
+      <img src="/whistler.jpeg" alt="Whistler" width="350" height="250" style="object-fit: cover;">
+    </a>
+  </div>
+   <div style="flex: 1 1 45%; text-align: center;">
+    <p>Whistler Village</p>
+    <a href="https://www.google.com/maps/search/Whistler+Village,+Whistler,+BC" target="_blank">
+      <img src="/whistler-2.jpeg" alt="Whistler" width="350" height="250" style="object-fit: cover;">
+    </a>
+  </div>
+  <div style="flex: 1 1 45%; text-align: center;">
     <p>Shannon Falls</p>
     <a href="https://www.google.com/maps/search/Shannon+Falls,+Whistler,+BC" target="_blank">
       <img src="/fall-1.jpeg" alt="Shannon Falls" width="350" height="250" style="object-fit: cover;">
